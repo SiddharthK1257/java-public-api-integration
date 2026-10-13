@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run SaiKet Task 2 App",
+            "request": "launch",
+            "mainClass": "com.saiket.task2.Main",
+            "projectName": "task2-api-fetcher",
+            "console": "integratedTerminal"
+        }
+    ]
+}
